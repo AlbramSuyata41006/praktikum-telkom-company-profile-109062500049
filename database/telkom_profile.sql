@@ -1,4 +1,4 @@
-CREATE DATABASE IF NOT EXISTS telkom_profile_praktikum;
+CREATE DATABASE IF NOT EXISTS telkom_profile;
 CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
 USE telkom_profile;
